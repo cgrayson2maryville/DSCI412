@@ -1,0 +1,64 @@
+---
+title: "DSCI412 - Project 08"
+author: "Cameron Grayson"
+date: "12/11/2021"
+output: html_document
+---
+
+*A list of topics learned on a weekly basis throughout Data Science 412 - Predictive Modelling.*
+
+
+Week 1)
+
+1. How to work with R Markdown inlcuding proper formatting and inserting code blocks.
+
+2. How to evaluate regression models graphically.
+
+
+Week 2)
+
+1. Techniques for dealing with missing values in data sets.
+
+2. Normalizing and rescaling variables in order to have more meaningful comparisons between variables.
+
+
+Week 3)
+
+1. Calculating the formulas for linear regression manually and using R.
+
+2. Applications of linear regression and applicable visualizations.
+
+
+Week 4)
+
+1. Creating logistic regression models in R and using these to predict outcomes based on the status of specified variables.
+
+2. Classification and how oto generate a confusion matrix.
+
+
+Week 5)
+
+1. Introduction to GLM's, or Generalized Linear Models, and the assumptions that need to be made in order for these types of models to work.
+
+2. When to use GLM's, and their advantages and disadvantages.
+
+
+Week 6)
+
+1. Decision trees and their applications. These can be relatively easy to explain and visualize graphically, but are prone to issues with changes and overfitting.
+
+2. Random forests and their applications. These can be more difficult to explain and visualize than decision trees, but are better at handling the situations described above.
+
+
+Week 7)
+
+1. K-Means Clustering and application.
+
+2. How to determine the optimal number of clusters when creating a K-Means cluster.
+
+
+Week 8)
+
+1. How to install Git and sign up for Github.
+
+2. The importance of documentation and communication.
